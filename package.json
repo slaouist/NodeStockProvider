@@ -1,0 +1,17 @@
+﻿{
+    "name": "NodeStockProvider",
+    "version": "1.0.0",
+    "description": "NodeStockProvider",
+    "main": "StockProvider.js",
+    "author": {
+        "name": "mkimbro",
+        "email": ""
+    },
+    "dependencies": {
+        "request": "~2.34.0"
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slaouist/NodeStockProvider.git"
+  }
+}
